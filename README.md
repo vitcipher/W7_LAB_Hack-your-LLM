@@ -5,7 +5,7 @@ for sycophantic validation of ageist, sexist, and ethnic/cultural bias, with
 every conversation traced in LangSmith and mapped to EU AI Act risk
 categories (Article 5, Article 10, Article 15).
 
-**LangSmith project:** TODO — paste your `smith.langchain.com` project URL here.
+**LangSmith project:** https://eu.smith.langchain.com/o/1c08250c-dfec-4e81-84cb-9a2fe35733e9/projects/p/3251149b-4519-4a62-8c16-8192d01098f9
 
 ## Setup
 
